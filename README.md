@@ -1,123 +1,196 @@
-# Vahid Ahmadi Khorami  
-**M.Sc. Mechanical Engineering**
+<div align="center">
 
-Python · Numerical Methods · Engineering Education · Scientific Computing
+# **Vahid Ahmadi Khorami**
+### *Mechanical Engineer • Python Developer • Numerical Analysis Enthusiast*
 
----
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/computer.gif" width="200"/>
 
-## 👋 Introduction
+**Python • Numerical Methods • Engineering Education • ASCII/Terminal Graphics**
 
-I am a mechanical engineer with a strong focus on **Python programming**, **numerical methods**, and **engineering education**.  
-My aim is to build practical learning resources, simple tools, and clean examples that make engineering concepts more accessible for students and self-learners.
+<br>
 
-My work mostly revolves around:
-- Educational Python libraries  
-- Numerical simulations  
-- Python notebooks for engineering  
-- Terminal/ASCII visualization tools  
+![Profile Views](https://komarev.com/ghpvc/?username=vahid2510&style=flat-square&color=blue)
 
----
+<br>
 
-## 📌 Featured Projects
+### **Tech Stack**
+<img src="https://skillicons.dev/icons?i=python,linux,git,github,vscode,regex" height="48"/>
 
-### ⭐ **starpatterns-lib**
-A lightweight Python library for generating **ASCII/terminal patterns**, inspired by geometry and simple math.
+<br>
 
-- Useful for teaching loops, conditionals, and algorithmic thinking  
-- Easy to extend  
-- Includes examples and tests  
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" height="120"/>
 
-🔗 Repo: https://github.com/vahid2510/starpatterns-lib
+</div>
 
 ---
 
-### 📘 **Mechanical_Engineering_python**
-A structured educational collection for mechanical engineering students.
+# 🚀 **Professional Summary**
 
-- Numerical methods  
-- Python examples explained step-by-step  
-- Learning-oriented design  
+Mechanical engineer focusing on **Python**, **numerical tools**, and **engineering education**.  
+Building practical resources that help students and engineers learn faster and understand deeper.
 
-🔗 Repo: https://github.com/vahid2510/Mechanical_Engineering_python
-
----
-
-### 💻 **PyReality**
-A minimal and friendly Python learning environment.
-
-- Simple interface for beginners  
-- Focused on understanding code execution  
-- Helpful for teaching fundamentals  
-
-🔗 Repo: https://github.com/vahid2510/PyReality
+Areas of focus:
+- Educational engineering libraries  
+- ASCII/terminal pattern systems  
+- Numerical computing notebooks  
+- Beginner-friendly learning environments  
 
 ---
 
-### 🧪 **Python-Example**
-Creative notebooks and Python snippets for learning and experimentation.
+# 🌟 **Featured Projects**
 
-- ~200 examples  
-- Great for exploring Python tricks  
-- Beginner-friendly  
-
-🔗 Repo: https://github.com/vahid2510/Python-Example
+## ⭐ **starpatterns-lib**
+ASCII/terminal pattern generator for teaching programming fundamentals.  
+🔗 https://github.com/vahid2510/starpatterns-lib
 
 ---
 
-## 🛠 Skills
-
-- Python for engineering  
-- Numerical analysis and scientific computing  
-- Educational content development  
-- Algorithmic thinking  
-- Data visualization (basic)  
-- Terminal graphics & ASCII patterns  
+## 📘 **Mechanical_Engineering_python**
+Structured Python notebooks for mechanical engineering students.  
+🔗 https://github.com/vahid2510/Mechanical_Engineering_python
 
 ---
 
-## 🌍 Languages
-- Persian (native)  
+## 💻 **PyReality**
+A minimal and friendly Python learning environment.  
+🔗 https://github.com/vahid2510/PyReality
+
+---
+
+## 🧪 **Python-Example**
+Nearly 200 creative Python snippets for experimentation and learning.  
+🔗 https://github.com/vahid2510/Python-Example
+
+---
+
+# 📊 **GitHub Analytics**
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vahid2510&show_icons=true&theme=default" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vahid2510&layout=compact&langs_count=10&theme=default" height="170"/>
+</div>
+
+---
+
+# 🗂 **Activity Timeline (Professional)**
+
+2025 — Developing advanced Python educational tools
+2024 — Published structured numerical computing notebooks
+2023 — Research on applied Python in engineering
+2022 — Built ASCII visualization systems
+2021 — Started engineering education projects
+
+yaml
+Copy code
+
+---
+
+# 🎯 **Roadmap & Goals**
+
+- Build a complete engineering-focused Python toolkit  
+- Expand starpatterns-lib with fractal and recursive systems  
+- Release a full PyReality learning suite  
+- Publish open-access engineering notebooks  
+
+---
+
+# 🧰 **Skills & Expertise**
+
+### **Engineering & Numerical**
+- Numerical analysis  
+- Scientific computing  
+- Algorithm development  
+
+### **Programming**
+- Python  
+- Git  
+- Regex  
+- Terminal/ASCII rendering  
+
+### **Education**
+- Engineering teaching materials  
+- Educational content creation  
+
+---
+
+# 🎈 **Fun Facts**
+
+- Prefer clarity over complexity  
+- Enjoy making engineering concepts easy  
+- Love polishing details in tools  
+
+---
+
+# 🌍 **Languages**
+
+- Persian (Native)  
 - English  
 
 ---
 
-## 📫 Contact
+<div align="center">
 
-- GitHub: https://github.com/vahid2510
+# 📫 **Contact**
+**GitHub:** https://github.com/vahid2510  
 
----
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handshake.gif" width="120"/>
 
-# نسخه فارسی (برای کاربرانی که از ایران بازدید می‌کنند)
-
-## معرفی کوتاه
-
-من **وحید احمدی خرمی** هستم، مهندس مکانیک و علاقه‌مند به برنامه‌نویسی پایتون، روش‌های عددی و آموزش مهندسی.  
-تمرکزم روی ساخت ابزارها و مثال‌هایی است که یادگیری برنامه‌نویسی را برای دانشجویان و علاقه‌مندان ساده‌تر کند.
+</div>
 
 ---
 
-## پروژه‌های منتخب
+# 🇮🇷 **نسخه فارسی**
 
-### ⭐ **starpatterns-lib**
-کتابخانه‌ای پایتونی برای تولید الگوهای متنی و نمایشی در ترمینال.
+## **معرفی**
 
-### 📘 **Mechanical_Engineering_python**
-مجموعه‌ای آموزشی برای دانشجویان مهندسی مکانیک با مثال‌های پایتونی.
-
-### 💻 **PyReality**
-محیط ساده‌شده برای یادگیری پایتون از طریق تمرین و اجرا.
-
-### 🧪 **Python-Example**
-دفترچه‌ها و مثال‌های متنوع پایتونی برای یادگیری خلاقانه.
+من **وحید احمدی خرمی** هستم؛  
+مهندس مکانیک، توسعه‌دهنده پایتون و علاقه‌مند به روش‌های عددی و آموزش مهندسی.  
+پروژه‌هایم معمولاً برای ساده‌تر کردن یادگیری مهندسی و برنامه‌نویسی ساخته می‌شوند.
 
 ---
 
-## مهارت‌ها
+## **تایم‌لاین فعالیت‌ها**
 
-- برنامه‌نویسی پایتون برای کاربردهای مهندسی  
-- روش‌های عددی و شبیه‌سازی ساده  
-- ساخت محتوای آموزشی  
-- طراحی مثال‌های یادگیری محور  
+۱۴۰۴ — توسعه ابزارهای آموزشی پایتون
+۱۴۰۳ — انتشار دفترچه‌های عددی
+۱۴۰۲ — شروع پروژه‌های محاسبات عددی
+۱۴۰۱ — ساخت سیستم‌های الگوهای ASCII
+۱۴۰۰ — آغاز تولید محتوای آموزشی
+
+yaml
+Copy code
 
 ---
 
+## **پروژه‌های شاخص**
+
+### ⭐ starpatterns-lib
+تولید الگوهای ASCII در ترمینال.
+
+### 📘 Mechanical_Engineering_python
+دفترچه‌های آموزشی برای دانشجویان مهندسی مکانیک.
+
+### 💻 PyReality
+محیط ساده برای یادگیری پایتون.
+
+### 🧪 Python-Example
+بیش از ۲۰۰ مثال خلاقانه پایتون.
+
+---
+
+## **مهارت‌ها**
+
+- پایتون  
+- روش‌های عددی  
+- الگوریتم‌نویسی  
+- تولید محتوای آموزشی  
+- گرافیک ASCII  
+
+---
+
+<div align="center">
+
+### 🔹 *End of Ultra Professional Profile* 🔹  
+<img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="120"/>
+
+</div>
